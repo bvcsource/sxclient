@@ -1,0 +1,3 @@
+from typing import Optional, Iterable
+
+def range(a: int, b: int = None, c: int = None) -> Iterable[int]: ...
